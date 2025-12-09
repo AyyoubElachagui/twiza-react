@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# Next.js build output
+/.next/
+/out/
+
+# macOS temporary folder (from zipping/extraction)
+/__MACOSX/
